@@ -3,3 +3,12 @@ I developed and put together the components of the spline robot with Prof. Chris
 
 
 "The “SplineBot” operates four CNC spline-knots controlled by an G.A. (Genetic Algorithm) machine learning program. The genotype encodes the (X, Y) coordinates of the four knots (A, B, C and D) with the phenotypical expression the resultant minimum strain profile digitised using photogrammetry. Selection criteria applied to populations of profiles include structural performance, ventilation airflow and manufacturing etc."
+
+![image 1](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image1.png)
+![image 2](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image3.png)
+![image 3](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image4.png)
+![image 4](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image2.png)
+![image 5](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image5.png)
+![image 6](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image6.png)
+![image 7](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image7.png)
+![image 8](https://github.com/S-D-M-admin/Spline_Robot/blob/main/Spline%20Bot%20images/Image8.png)
